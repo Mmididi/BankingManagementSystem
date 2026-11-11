@@ -1,0 +1,16 @@
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/App.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/Account.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/Bank.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/BankStaff.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/ChequeAccount.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/Customer.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/EmploymentDetails.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/IndividualCustomer.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/InterestBearing.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/InvestmentAccount.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/OrganisationCustomer.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/SavingsAccount.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/SystemAdministrator.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/Transaction.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/User.java
+/workspaces/BankingManagementSystem/banking-system/src/main/java/com/banking/model/Withdrawable.java
